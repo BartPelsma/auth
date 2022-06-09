@@ -36,8 +36,8 @@ namespace Auth
             services.AddAuthentication()
                     .AddGoogle(options =>
                     {
-                        options.ClientId = Configuration["App:GoogleClientId"];
-                        options.ClientSecret = Configuration["App:GoogleClientSecret"];
+                        options.ClientId = Configuration["App: GoogleClientId"];
+                        options.ClientSecret = Configuration["App: GoogleClientSecret"];
                     })
                     .AddFacebook(options=>
                     {
