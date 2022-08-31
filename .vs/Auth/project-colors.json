@@ -15,7 +15,12 @@
       "ProjectGuid": "bdbc14c7-7b45-4b5b-97d7-97294bc73c44",
       "DisplayName": "Auth",
       "ColorIndex": 1
+    },
+    "c4c79421-0018-44d4-aebf-7d56332fb3a7": {
+      "ProjectGuid": "c4c79421-0018-44d4-aebf-7d56332fb3a7",
+      "DisplayName": "Auth",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
